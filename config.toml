@@ -1,0 +1,4 @@
+baseURL = "https://yojnaportal.github.io/yojnaportal/"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "ananke"
