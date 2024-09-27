@@ -1,0 +1,19 @@
+<rss version="2.0">
+  <channel>
+    <title>My Hugo Site</title>
+    <link>https://yojnaportal.github.io/yojnaportal/</link>
+    <description>Recent content on My Hugo Site</description>
+    <language>en-us</language>
+    <generator>Hugo</generator>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://yojnaportal.github.io/yojnaportal/first-post/</link>
+      <description>This is a description of my first post.</description>
+      <pubDate>Mon, 26 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
+    
+    <!-- More <item> tags for other posts -->
+    
+  </channel>
+</rss>
